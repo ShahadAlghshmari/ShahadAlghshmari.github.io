@@ -1,2 +1,0 @@
-# ShahadAlghshmari
-project1
